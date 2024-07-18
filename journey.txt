@@ -1,0 +1,4 @@
+Right now the best (or funniest) moment ive had was when I couldnt
+figure out why my git hub wasnt connecting to my VS code. So i scheduled
+a call and it ended up taking 3 minutees becasue all I had to do was 
+save my files
