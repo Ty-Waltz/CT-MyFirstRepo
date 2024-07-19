@@ -37,7 +37,7 @@ dynamic_var = "five"
 print(dynamic_var)
 
 #exersise8 
-if = "not gon work"
+#if = "not gon work"
     
 
 #exersise 9
